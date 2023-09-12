@@ -1,8 +1,4 @@
 # Contribution-card
-### Make your first contribution by using this `Template Repo`
 
-#### Get a contributing card like this 
-![Document](https://github.com/VinitGurjar/Contribution-card/assets/97173586/9e40d2e3-36a7-4dac-93e1-5fb1d8394ef5)
+![Screenshot from 2023-09-13 00-17-30](https://github.com/sengokusan/my-first-contribution/assets/144834952/7a9afd2d-9314-4fc8-9184-09d2377b9123)
 
->[!NOTE]
->You just have to add your photo and name that is Edit the HTML file. 
